@@ -17,7 +17,3 @@ Programa en consola que permite realizar operaciones matemáticas básicas media
 - Estructuras condicionales
 - Menús interactivos
 - Organización del código
-
-## Cómo ejecutar
-1. Ejecuta el archivo:
-   python menu_opbasicas.py
